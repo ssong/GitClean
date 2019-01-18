@@ -1,0 +1,22 @@
+{
+  "name": "gitclean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssong-eu/GitClean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssong-eu/GitClean/issues"
+  },
+  "homepage": "https://github.com/ssong-eu/GitClean#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
