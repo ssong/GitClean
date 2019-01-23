@@ -1,6 +1,10 @@
 # GitClean
 
-A script to batch transfer ownership of repositories to clean up your GitHub profile.
+A script to batch manage repositories to make your GitHub profile cleaner.
+
+It can search by: keywords and whether the repository was forked.
+
+It can: Make repositories private or public, delete repositories, and transfer repositories.
 
 ## Before Usage
 
